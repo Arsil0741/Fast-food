@@ -1,0 +1,88 @@
+@media(max-width:1024px) {
+    
+}
+
+
+
+@media(max-width:991px){
+
+/* custom classes */
+.text-content{
+    width: 100%;
+
+}
+/* navbar brand */
+.navigation-wrap .navigation-brand img{
+height: 3.8rem;
+}
+
+.navigation-wrap{
+    text-align: center;
+    background-color: var(--white-color);
+}
+.navigation-wrap .nav-link{
+    line-height: 1.87rem;
+}
+
+.top-banner{
+    padding: 9.3rem 0 9.3rem;
+}
+
+.testimonial-section .carousel-item p{
+    padding: 0;
+
+}
+
+}
+
+
+
+@media (max-width:767px){
+    h1{
+        font-size: 2.8rem;
+    }
+
+    h2{
+        font-size: 2rem;
+        line-height: 2.06rem;
+    }
+
+    .top-banner{
+        padding: 10.8rem 0 9.375rem;
+    }
+
+    .story-section{
+padding:3rem 0;
+    }
+
+
+    .testimonial-section .carousel-item{
+        padding: 5rem 2rem;
+    }
+
+    .newsletter{
+width: 75%;
+
+    }
+
+    .newsletter .main-btn{
+        width: 100%;
+        margin-top: 1rem;
+    }
+
+    .footer .footer-link,
+    .footer a i{
+        padding: 0 0.7rem;
+    }
+
+    
+}
+
+@media(max-width:600px){
+    .about-section .text-sec{
+        padding-left: 0.2rem;
+    }
+}
+
+
+
